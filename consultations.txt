@@ -1,0 +1,20 @@
+Absolute Bodika
+10000
+50
+senior
+The Foo Bar
+5000
+12
+junior
+Crankies Shaft Automotive
+4500
+7
+senior
+Cat-astrophe Pet Grooming
+3200
+4
+intern
+Pondering Aquariums
+9000
+24
+senior
